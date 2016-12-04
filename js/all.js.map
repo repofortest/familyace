@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["console","log"],"mappings":";;AAAA;;AAEA;;AAEAA,QAAQC,GAAR,CAAY,GAAZ","file":"all.js","sourcesContent":["import {Topbar} from './components/topbar.js'\n\nnew Topbar()\n\nconsole.log(234)"]}
